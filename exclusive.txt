@@ -448,4 +448,3 @@ sid_placeholder_656
 eid_harmony
 eid_threedee
 EID_RideThePony_Athena
-cid_a_049_athena_commando_f_sailorsquadrebel

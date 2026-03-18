@@ -10,7 +10,7 @@ This software requires a valid **License Key** to operate.
 
 To purchase a subscription or get support, join our official Discord server:
 
-👉 https://discord.gg/jv8n9Um6DY
+👉 https://discord.gg/mD4mNKUqQH
 
 ---
 
